@@ -1,4 +1,6 @@
 # IT3040 Assignment 1 - Singlish to Sinhala Translator Testing
+**Student ID:** IT23837676  
+**GitHub Repository:** https://github.com/Sahan2002-cmd/IT3040_Assignment_01.git
 
 ## 📋 Project Overview
 This repository contains automated tests for the **Singlish to Sinhala translator** web application available at:  
